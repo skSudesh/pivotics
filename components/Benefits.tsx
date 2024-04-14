@@ -26,7 +26,7 @@ const Benefits = () => {
             </div>
          </div>
 
-         <div className='flex flex-col-reverse md:flex-row justify-between gap-4 items-center mt-16 md:mt-28 md:mx-12 lg:mx-24'>
+         <div className='flex flex-col-reverse md:flex-row justify-between gap-4 items-center mt-16 md:mt-28 mx-8 md:mx-12 lg:mx-24'>
             <div>
                <Image
                   src="/benefits/benefit2-min.png"
